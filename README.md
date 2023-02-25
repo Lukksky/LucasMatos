@@ -41,7 +41,7 @@
 </div>
 
 
-- 👨‍🎓 Estudante de GTI pela Fatec
-- 🌱 Fazendo Dev-labs oferecido pela ACCT
-- 👷 Trabalho como Genneral Support na Take blip
+- 👨‍🎓 Gestão de TI Fatec 2022
+- 🌱 Pós Data Science & Big Data Analitics 
+- 👷 Chatbot Analyst Developer at Take blip
     
