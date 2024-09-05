@@ -41,7 +41,7 @@
 </div>
 
 
-- 👨‍🎓 Gestão de TI Fatec 2022
+- 👨‍🎓 Gestão de TI Fatec
 - 🌱 Pós Data Science & Big Data Analitics 
-- 👷 Chatbot Analyst Developer at Take blip
+- 👷 Chatbot Developer
     
